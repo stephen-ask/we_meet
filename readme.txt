@@ -1,3 +1,5 @@
+Credits goes to Eventin Team. 
+
 ===Event Manager, Event Calendar, Event Tickets for WooCommerce - Eventin===
 Contributors: themewinter, ataurr, abrasel600, rezakhan995,  nitu456410
 Tags: calendar, events, event, tickets, multivendor, zoom, registration, schedule, booking
